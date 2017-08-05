@@ -5,3 +5,4 @@ Git tracks changes of files.
 aaa.
 bbb.
 Creating a new branch is quick and simple.
+add merge.
